@@ -7,6 +7,8 @@
    <img height="180em" src="https://github-readme-stats-eta-pink-78.vercel.app/api?username=Jlsnet0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats-eta-pink-78.vercel.app/api/top-langs/?username=Jlsnet0&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
+
+![Estatísticas do perfil](./profile/metrics.svg)
     
  
 ### Para entrar em contato
