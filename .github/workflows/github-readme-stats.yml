@@ -1,0 +1,25 @@
+name: Update GitHub profile statistics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-statistics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate profile statistics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: profile/metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Jlsnet0
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: America/Recife
+          output_action: commit
+          committer_branch: main
