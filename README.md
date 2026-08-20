@@ -104,7 +104,7 @@ export default developer;
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/josels-neto">
+<a href="https://www.linkedin.com/in/josels-neto" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-1B2A4A?style=for-the-badge&logo=linkedin&logoColor=F5F5F5" />
 </a>
 &nbsp;
