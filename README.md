@@ -84,19 +84,6 @@ export default developer;
 * TypeScript
 * Docker
 
-<br/>
-
-## `03` // GITHUB
-
-<div align="center">
-
-<img src="./profile/metrics.svg" width="100%" alt="Estatísticas do GitHub"/>
-
-
-</div>
-
-<br/>
-
 ## `04` // CONTRIBUTION MATRIX
 
 <div align="center">
@@ -109,7 +96,7 @@ export default developer;
 
 <div align="center">
 
-<a href="www.linkedin.com/in/josels-neto">
+<a href="https://www.linkedin.com/in/josels-neto">
   <img src="https://img.shields.io/badge/LinkedIn-1B2A4A?style=for-the-badge&logo=linkedin&logoColor=F5F5F5" />
 </a>
 &nbsp;
