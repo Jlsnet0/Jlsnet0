@@ -46,34 +46,42 @@ export default developer;
 
 ### Front-end
 
-<img src="https://img.shields.io/badge/React-1B2A4A?style=for-the-badge&logo=react&logoColor=F5F5F5" />
-<img src="https://img.shields.io/badge/HTML5-1B2A4A?style=for-the-badge&logo=html5&logoColor=F5F5F5" />
-<img src="https://img.shields.io/badge/CSS3-1B2A4A?style=for-the-badge&logo=css3&logoColor=F5F5F5" />
+<div>
+  <img src="https://img.shields.io/badge/React-1B2A4A?style=for-the-badge&logo=react&logoColor=F5F5F5" />
+  <img src="https://img.shields.io/badge/HTML5-1B2A4A?style=for-the-badge&logo=html5&logoColor=F5F5F5" />
+  <img src="https://img.shields.io/badge/CSS3-1B2A4A?style=for-the-badge&logo=css3&logoColor=F5F5F5" />
+</div>
 
 ### Back-end
 
+<div>
 <img src="https://img.shields.io/badge/Node.js-1B2A4A?style=for-the-badge&logo=nodedotjs&logoColor=F5F5F5" />
 <img src="https://img.shields.io/badge/Express-1B2A4A?style=for-the-badge&logo=express&logoColor=F5F5F5" />
 <img src="https://img.shields.io/badge/REST%20APIs-1B2A4A?style=for-the-badge&logo=fastapi&logoColor=F5F5F5" />
+</div>
 
 ### Linguagens
 
+<div>
 <img src="https://img.shields.io/badge/JavaScript-1B2A4A?style=for-the-badge&logo=javascript&logoColor=F5F5F5" />
 <img src="https://img.shields.io/badge/TypeScript-1B2A4A?style=for-the-badge&logo=typescript&logoColor=F5F5F5" />
+</div>
 
 ### Banco de Dados
 
+<div>
 <img src="https://img.shields.io/badge/SQL-1B2A4A?style=for-the-badge&logo=postgresql&logoColor=F5F5F5" />
 <img src="https://img.shields.io/badge/MySQL-1B2A4A?style=for-the-badge&logo=mysql&logoColor=F5F5F5" />
+</div>
 
 ### Ferramentas
 
-<img src="https://img.shields.io/badge/Git-1B2A4A?style=for-the-badge&logo=git&logoColor=F5F5F5" />
-<img src="https://img.shields.io/badge/GitHub-1B2A4A?style=for-the-badge&logo=github&logoColor=F5F5F5" />
-<img src="https://img.shields.io/badge/Docker-1B2A4A?style=for-the-badge&logo=docker&logoColor=F5F5F5" />
-<img src="https://img.shields.io/badge/VS%20Code-1B2A4A?style=for-the-badge&logo=visualstudiocode&logoColor=F5F5F5" />
-
-<br/>
+<div>
+  <img src="https://img.shields.io/badge/Git-1B2A4A?style=for-the-badge&logo=git&logoColor=F5F5F5" />
+  <img src="https://img.shields.io/badge/GitHub-1B2A4A?style=for-the-badge&logo=github&logoColor=F5F5F5" />
+  <img src="https://img.shields.io/badge/Docker-1B2A4A?style=for-the-badge&logo=docker&logoColor=F5F5F5" />
+  <img src="https://img.shields.io/badge/VS%20Code-1B2A4A?style=for-the-badge&logo=visualstudiocode&logoColor=F5F5F5" />
+</div>
 
 ## `02` // CURRENTLY STUDYING
 
